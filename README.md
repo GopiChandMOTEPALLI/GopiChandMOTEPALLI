@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
+
 **GopiChandMOTEPALLI/GopiChandMOTEPALLI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying on coding
+- 🌱 I’m currently learning Git&Git-HUb
+- 👯 I’m looking to collaborate with Top Technologies
+- 🤔 I’m looking for help with my friends
+- 💬 Ask me about Git&Git-Hub
+- 📫 How to reach me:gopichandmsv@gmail.com
+- 😄 Pronouns:active
+- ⚡ Fun fact:The moon has moonquakes🤣😉
+
